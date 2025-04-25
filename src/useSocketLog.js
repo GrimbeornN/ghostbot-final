@@ -1,0 +1,1 @@
+// Hook to connect to websocket for live logs (to be completed)
